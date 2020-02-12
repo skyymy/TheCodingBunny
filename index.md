@@ -1,5 +1,5 @@
 ## Side Point
-1. Intro to github page [link]https://sspai.com/post/54608
+1. Intro to github page [link](https://sspai.com/post/54608)
 
 
 ## Bronze HW1
