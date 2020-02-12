@@ -1,4 +1,8 @@
-## Welcome to GitHub Pages
+## Side Point
+1. Intro to github page [link]https://sspai.com/post/54608
+
+
+## Bronze HW1
 
 You can use the [editor on GitHub](https://github.com/skyymy/skyymy.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
